@@ -1,13 +1,3 @@
-Landing Page for final assignment Kewirausahaan
+Cloud Computing Final Exams | Project Implementation of PaaS (Platform as a Service)
 
-Our project : Noodle Chili Oil (Noochil) Landing Page 
-
-Our team :
-Hasna Azizah (sh1z1a)
-Jovina Gustari Juwita (jovinagustari)
-Iffah Karimah (iffahkr)
-Imelda Wahyuni
-Ika Widiyanti
-Indah Agustin
-Fara Azzahra
-Feni Fitriani
+A repository for Cloud Computing subject final exams, using Netlify as a PaaS provider. What inside is a KWU (entrepreneurship) subject project by Noochil Team.
